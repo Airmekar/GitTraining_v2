@@ -1,0 +1,2 @@
+This is the first content of this file-untracked by git
+This is the second content of this file after track changes was enabled
